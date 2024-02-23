@@ -1,4 +1,4 @@
-# Portfolio Optimisation with Monte Carlo Simulation
+# Portfolio Optimisation with Monte-Carlo Simulation
 
 ## 1. Introduction
 
