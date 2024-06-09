@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-The main objective of this project is to optimise a portfolio consisting of stocks from the VN30 index using Monte Carlo simulation. The VN30 is an index comprising the 30 largest companies listed on the Ho Chi Minh Stock Exchange (HOSE) in Vietnam. These companies are often used as a benchmark for the overall performance of the Vietnamese market. By utilising historical stock data, my aim is to construct and evaluate multiple portfolios to find the optimal allocation that maximises the risk-adjusted return.
+The main objective of this project is to optimise a portfolio consisting of stocks from the VN30 Index (VNI30) using Monte Carlo simulation. The VNI30 is an index comprising the 30 largest companies listed on the Ho Chi Minh Stock Exchange (HOSE) in Vietnam. These companies are often used as a benchmark for the overall performance of the Vietnamese market. By utilising historical stock data, my aim is to construct and evaluate multiple portfolios to find the optimal allocation that maximises the risk-adjusted return.
 
 This project will conduct analysis on:
 - Capital Asset Pricing Model
@@ -10,6 +10,7 @@ This project will conduct analysis on:
 - Correlation
 - Monte Carlo simulation
 
+The data of this project is extracted from investing.com, that is the historical data of VNI30 and 30 largest companies on HOSE, from June 2019 to June 2014 (5 years).
 
 ## 2. Result
 
